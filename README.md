@@ -1,5 +1,4 @@
 # Pathfinder: Device for Obstacle Detection and Avoidance to Help The Mobility of Visually Impaired People
-An SP2 repository by Nacu, Moshe F. [2, AY 2019-2020]
 
 Moshe F. Nacu and Katrina Joy M. Abriol-Santos
 
