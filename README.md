@@ -2,12 +2,4 @@
 
 Moshe F. Nacu and Katrina Joy M. Abriol-Santos
 
-Abstract—Pathfinder is a wearable computer vision device that
-aims to assist in the mobility of the visually impaired. The Shi-
-Tomasi Algorithm was applied to detect the feature points and the
-obstacles along the path. The software is installed on a Raspberry
-Pi. The input is a live video feed captured by the Raspberry Pi
-Camera. The device gives directions to the user using sounds.
-Nine users participated in testing the device and they agreed
-that the device was successful in redirecting them to avoid the
-obstacles along the path that they were traversing.
+Abstract—Pathfinder is a wearable computer vision device that aims to assist in the mobility of the visually impaired. The Shi-Tomasi Algorithm was applied to detect the feature points and these features were the basis for detecting the obstacles along the path. The software was installed on a Raspberry Pi. The input was a live video feed captured by the Raspberry Pi Camera. The device gave directions to the user using the sounds produced by the buzzers attached to the device. The application was tested in terms of the accuracy of the obstacles being detected and it yielded 83% precision and 100% recall. In testing the usability of the device, nine blindfolded users were asked to wear the device while walking through a path with obstacles. They evaluated the device in terms of how quickly they were able to adapt to using it, effectiveness, usefulness, and reliability. Although the users were not able to quickly adapt to using the device in traversing the path, they agreed that the device was somewhat effective in helping them avoid the obstacles. They also agreed that the system was useful and reliable in guiding the visually impaired.
